@@ -7,3 +7,7 @@
   name: meta
   extension: csv
   type: files
+- path: common_gbif_tsv
+  name: common_gbif_tsv
+  extension: bz2
+  type: files
