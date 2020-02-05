@@ -1,0 +1,3 @@
+path: https://github.com/cboettig/pins-test/releases/download/iris_tsv-ac0645d/iris.tsv.bz2
+extension: bz2
+type: files
