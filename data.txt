@@ -24,3 +24,7 @@
   name: iris_tsv
   extension: bz2
   type: files
+- path: flights_tsv
+  name: flights_tsv
+  extension: bz2
+  type: files
