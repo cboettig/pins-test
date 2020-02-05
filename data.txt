@@ -20,3 +20,7 @@
   extension: txt
   description: 2020-02-04 cache of GBIF Taxonomic Names in Darwin Core
   type: files
+- path: iris_tsv
+  name: iris_tsv
+  extension: bz2
+  type: files
