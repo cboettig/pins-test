@@ -1,3 +1,4 @@
-path: https://github.com/cboettig/pins-test/releases/download/test1-220f804/text.file.txt
+path: https://github.com/cboettig/pins-test/releases/download/test1-4b6626d/text.file.txt
 extension: txt
+description: 2020-02-04 cache of GBIF Taxonomic Names in Darwin Core
 type: files
