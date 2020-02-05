@@ -11,3 +11,7 @@
   name: common_gbif_tsv
   extension: bz2
   type: files
+- path: text_file
+  name: text_file
+  extension: txt
+  type: files
