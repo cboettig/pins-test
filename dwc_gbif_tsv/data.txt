@@ -1,3 +1,3 @@
-path: []
+path: https://github.com/cboettig/pins-test/releases/download/dwc_gbif_tsv-e34c24f/dwc_gbif.tsv.bz2
 extension: bz2
 type: files
