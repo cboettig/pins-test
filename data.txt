@@ -11,3 +11,7 @@
   name: common_gbif_tsv
   extension: bz2
   type: files
+- path: dwc_gbif_tsv
+  name: dwc_gbif_tsv
+  extension: bz2
+  type: files
